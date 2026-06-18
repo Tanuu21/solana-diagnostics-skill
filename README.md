@@ -10,6 +10,9 @@ Built for the [Solana AI Kit Bounty](https://github.com/solanabr/solana-ai-kit).
 
 # ![Solana Diagnostics Dashboard](https://raw.githubusercontent.com/Tanuu21/solana-diagnostics-skill/main/image-2.png)
 
+![Demo Screenshot](https://raw.githubusercontent.com/Tanuu21/solana-diagnostics-skill/main/image-2%20(1).png)
+
+
 ---
 
 ## What It Solves

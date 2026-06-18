@@ -1,3 +1,5 @@
+# Solana Diagnostics Skill
+
 # ![Solana Diagnostics Dashboard](https://raw.githubusercontent.com/Tanuu21/solana-diagnostics-skill/main/image-2.png)
 
 > **"Understand Solana failures in seconds."**

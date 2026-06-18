@@ -1,12 +1,10 @@
-# Solana Diagnostics Skill
+# ![Solana Diagnostics Dashboard](https://raw.githubusercontent.com/Tanuu21/solana-diagnostics-skill/main/image-2.png)
 
 > **"Understand Solana failures in seconds."**
 
 A production-ready Claude Code skill that turns your AI coding agent into an expert Solana diagnostics engineer. Paste an error, log, or code snippet — get root cause analysis, ranked likely causes, a working fix, and security warnings instantly.
 
 Built for the [Solana AI Kit Bounty](https://github.com/solanabr/solana-ai-kit).
-
-[image alt]([image-2.png](https://github.com/Tanuu21/solana-diagnostics-skill/blob/5ec99ec105473061f865fad279d4cda6bac2292d/image-2.png))
 
 ---
 

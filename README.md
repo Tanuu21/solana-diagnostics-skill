@@ -1,4 +1,4 @@
-[image alt](https://github.com/Tanuu21/solana-diagnostics-skill/blob/main/image-2.png?raw=true)
+[image alt](image-2.png)
 
 # Solana Diagnostics Skill
 

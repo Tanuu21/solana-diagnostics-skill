@@ -1,3 +1,4 @@
+https://github.com/Tanuu21/solana-diagnostics-skill/blob/main/image-2.png?raw=true
 # Solana Diagnostics Skill
 
 > **"Understand Solana failures in seconds."**
